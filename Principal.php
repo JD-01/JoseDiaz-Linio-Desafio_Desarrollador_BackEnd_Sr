@@ -160,8 +160,8 @@ body {
 .Tabla {
   display: table;
   border: solid 1px #D7D7C4;
-	-webkit-border-radius: 5px;
-	-moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
   border-radius: 5px;
 }
 .Tabla .Th {
@@ -180,7 +180,7 @@ body {
 
 /* ============================================================ */
 
-	  </style>
+    </style>
 
   </head>
 
