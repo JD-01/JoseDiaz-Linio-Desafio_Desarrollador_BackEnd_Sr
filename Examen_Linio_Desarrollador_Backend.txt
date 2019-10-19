@@ -1,0 +1,17 @@
+# Desafío - Desarrollador Sr. Backend
+Escribe un programa que imprima todos los números del 1 al 100.
+Sin embargo, para múltiplos de 3, en lugar del número, imprima "Linio".
+Para múltiplos de 5, imprima "IT".
+Para números que son múltiplos de 3 y 5, imprima "Linianos".
+
+Pero aquí está el truco: puedes usar solo un 'if'. No hay múltiples ramas, operadores ternarios o 'else'.
+
+# Requisitos
+Un (1) 'if'
+No puedes usar 'else', 'else if' o ternario
+Pruebas unitarias
+Siéntase libre de aplicar su conocimiento SÓLIDO
+Puedes escribir el desafío en el lenguaje que quieras. Aquí en Linio somos grandes admiradores de PHP, Kotlin y TypeScript.
+
+# Sumisión
+Crea un repositorio en GitLab, GitHub o cualquier otro servicio similar y solo envíanos el enlace.

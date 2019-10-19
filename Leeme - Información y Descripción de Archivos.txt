@@ -1,0 +1,29 @@
+=====================================
+Información y Descripción de Archivos
+=====================================
+
+--------------------------------------------------
+Repositorio GitHup - Dirección URL
+--------------------------------------------------
+
+https://github.com/JD-01/Jose_Diaz-Linio-Desafio_Desarrollador_BackEnd_Sr
+
+--------------------------------------------------
+Principal.php
+--------------------------------------------------
+
+Este archivo contiene instrucciones de código en los lenguajes PHP y JS para la resolución del examen,
+
+hay una solición escrita en PHP y otra en JS, además se encuentran instrucciones en las tecnologías 
+
+HTML y CSS para la presentación de ambas soluciones.
+
+--------------------------------------------------
+Pruebas_Unitarias.php
+--------------------------------------------------
+
+Este archivo contiene instrucciones de código en los lenguajes PHP y JS, con diferentes formas de resolver 
+
+el examen, probando individualmente cada una, hay dos (2) formas de resolución en PHP y una (1) en JS, además 
+
+se encuentran hay instrucciones en las tecnologías HTML y CSS para la presentación de todas soluciones.
